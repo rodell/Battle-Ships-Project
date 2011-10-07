@@ -1,5 +1,6 @@
 package com.android.battleships;
 
 public class Ship {
-	/* change */
+	/* This is a comment. */
+	
 }
